@@ -13,3 +13,5 @@ public class Solution01_06_0745 {
         return l;
     }
 }
+
+//https://www.geeksforgeeks.org/problems/implement-upper-bound/1
