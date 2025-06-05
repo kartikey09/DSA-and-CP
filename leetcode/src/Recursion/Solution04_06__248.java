@@ -19,3 +19,5 @@ public class Solution04_06__248 {
     }
 
 }
+
+//https://leetcode.com/problems/count-good-numbers/
